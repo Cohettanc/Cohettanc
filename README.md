@@ -8,7 +8,8 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 
 - 👨‍🦱 I'm a MLOps freelance by day, an Open Source contributor by night 🦇
 - 💼 Previously offshore production engineer🗼, operational excellence consultant🏭 and data-scientist in Reservoir Engineering 🪨, I contribute as a MLOps to the NGO [@PyroNear](https://pyronear.org/) & volunteer [@dataforgoodfr](https://dataforgood.fr/) 
-- :heart: I'm passionate about project management👨🏻‍🚀, cloud deployment⛈️, deep learning🧿, economics📈💹 and energy sector🛢️⛽️.
+- :heart: I'm passionate about project management👨🏻‍🚀, cloud deployment⛈️, deep learning🧿, economics📈💹 and energy sector🛢️⛽️. 
+- 🧠 I am passioned by Entrepreneurship, and I apply and enforce my Product Management skills whenever I can (User Research, Product Discovery)
 - 🌱 Currently learning about DevOps & Serverless/Edge Computing
 - 😄 What I actually do on my spare time 🎭 🎺 🥊 🚑
 - 👀 What I wish I could do more often 📚 👨🏻‍🎨 ⛷️
@@ -40,6 +41,18 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 - How I write fancy equations: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
 - Where I share my work: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
+
+- How I create user-friendly web app with low/no code Saas, for clients: ![Airtable](https://img.shields.io/badge/-Airtable-181717?style=flat-square&logo=Airtable)
+![Appgyver](https://img.shields.io/badge/-Appgyver-181717?style=flat-square&logo=Appgyver)
+
+- How I manage project and user research: ![Trello](https://img.shields.io/badge/-Trello-013243?style=flat-square&logo=Trello)
+![Asana](https://img.shields.io/badge/-Asana-013243?style=flat-square&logo=Asana)
+![Miro](https://img.shields.io/badge/-Miro-013243?style=flat-square&logo=Miro)
+![Dovetail](https://img.shields.io/badge/-Dovetail-013243?style=flat-square&logo=Dovetail)
+
+- On which ERP I can dive: 
+![SAP](https://img.shields.io/badge/SAP-60A5FA?style=flat-square&logo=SAP&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-EE4C2C?style=flat-square&logo=Oracle&logoColor=white) 
 
 - How I serve my applications: ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
 ![Cloud](https://img.shields.io/badge/Cloud-Azure-60A5FA?style=flat-square&logo=microsoft-azure&logoColor=white) 
