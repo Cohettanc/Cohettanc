@@ -38,7 +38,7 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 
 - What I mostly work on: ![iOS](https://img.shields.io/badge/-iOS-181717?style=flat-square&logo=ios&logoColor=white) 
  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
-- How I write fancy equations: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+- How I write equations: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
 - Where I share my work: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
 
