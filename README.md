@@ -63,7 +63,7 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 - Coming soon: ![MLfLow](https://img.shields.io/badge/-MLfLow-60A5FA?style=flat-square&logo=MLfLow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-FA7343?style=flat-square&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-FA7343?style=flat-square&logo=ansible&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) 
+![BentoML](https://img.shields.io/badge/-BentoML-02569B?style=flat-square&logo=bentoml&logoColor=white) 
 ![CSharp](https://img.shields.io/badge/-CSharp-F7DF1E?style=flat-square&logo=CSharp&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-EE4C2C?style=flat-square&logo=Raspberry-Pi&logoColor=white)
