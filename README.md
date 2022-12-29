@@ -48,6 +48,7 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 
 - How I manage project and user research: ![Trello](https://img.shields.io/badge/-Trello-013243?style=flat-square&logo=Trello)
 ![Asana](https://img.shields.io/badge/-Asana-013243?style=flat-square&logo=Asana)
+![Notion](https://img.shields.io/badge/-Notion-013243?style=flat-square&logo=Notion)
 ![Miro](https://img.shields.io/badge/-Miro-013243?style=flat-square&logo=Miro)
 ![Dovetail](https://img.shields.io/badge/-Dovetail-013243?style=flat-square&logo=Dovetail)
 
