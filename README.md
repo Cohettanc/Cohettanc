@@ -69,4 +69,19 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-EE4C2C?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
 
+<details>
+  <summary>Additional Skills 👨🏻‍🚀 👈</summary>
+
+Sectorial Skills:
+- Field Production Engineering 🛢️⛽️🗼(on Oil & Gas offshore rigs jackup or subsea)
+- Industrial Engineering 🏭(Operational Research, Problem Solving system)
+- Reservoir Engineering (Decline Curve Analysis, Well Stimulation)
+- Electricity Market ⚡️ 
+
+Soft Skills:
+- Communication 🎙️
+- People Management🤼
+</details>
+
+
 ![FG's github stats](https://github-readme-stats.vercel.app/api?username=Cohettanc&show_icons=true)
