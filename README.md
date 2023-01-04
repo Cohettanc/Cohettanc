@@ -56,7 +56,7 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 ![SAP](https://img.shields.io/badge/SAP-60A5FA?style=flat-square&logo=SAP&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-EE4C2C?style=flat-square&logo=Oracle&logoColor=white) 
 
-- How I serve my applications: ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
+- How and I serve my applications: ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
 ![Cloud](https://img.shields.io/badge/Cloud-Azure-60A5FA?style=flat-square&logo=microsoft-azure&logoColor=white) 
 ![Cloudg](https://img.shields.io/badge/Cloud-GCP-60A5FA?style=flat-square&logo=google-cloud&logoColor=white) 
 
@@ -65,6 +65,7 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 ![Ansible](https://img.shields.io/badge/-Ansible-FA7343?style=flat-square&logo=ansible&logoColor=white)
 ![BentoML](https://img.shields.io/badge/-BentoML-02569B?style=flat-square&logo=bentoml&logoColor=white) 
 ![CSharp](https://img.shields.io/badge/-CSharp-F7DF1E?style=flat-square&logo=CSharp&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-EE4C2C?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
