@@ -6,7 +6,7 @@ Hi! I'm Tancrède, welcome onboard <img src="https://media.giphy.com/media/hvRJC
 <details>
   <summary>About me 👈</summary>
 
-- 👨‍🦱 I'm a MLOps freelance by day, an Open Source contributor by night 🦇
+- 👨‍🦱 I'm a freelance data-scientsit and an Open Source contributor.
 - 💼 Previously offshore production engineer🗼, operational excellence consultant🏭 and data-scientist in Reservoir Engineering 🪨, I contribute as a MLOps to the NGO [@PyroNear](https://pyronear.org/) & volunteer [@dataforgoodfr](https://dataforgood.fr/) 
 - :heart: I'm passionate about project management👨🏻‍🚀, cloud deployment⛈️, deep learning🧿, economics📈💹 and energy sector🛢️⛽️. 
 - 🧠 I am passionate by Entrepreneurship, and I apply and enforce my Product Management skills whenever I can (User Research, Product Discovery)
