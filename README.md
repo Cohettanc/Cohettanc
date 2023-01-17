@@ -68,6 +68,7 @@ Hi! I'm Tancrède, welcome onboard !
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-EE4C2C?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![DagsHub](https://img.shields.io/badge/-DagsHub-EE4C2C?style=flat-square&logo=DagsHub&logoColor=white)
 
 
 <details>
